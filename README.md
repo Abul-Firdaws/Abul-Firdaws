@@ -16,6 +16,7 @@ https://linktr.ee/A_Firdaws
 
 saakaabufirdaus@gmail.com
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Abul-Firdaws&layout=compact&theme=radical
+## GitHub Stats
+![Abdul-Firdaws's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abul-Firdaws&show_icons=true&theme=github&hide_border=true&include_all_commits=true&count_private=true&line_height=20)
 
-https://github-readme-stats.vercel.app/api?username=Abul-Firdaws&show_icons=true&theme=radical
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abul-Firdaws&layout=donut&theme=github&hide_border=true)
