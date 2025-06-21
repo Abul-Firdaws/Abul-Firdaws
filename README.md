@@ -1,6 +1,6 @@
 
 # Hi, I'm Abdul-Firdaws Saaka
-An Assistant Water Safety Specialist transitioning into tech. I'm passionate about Data Analysis, Cloud Computing and Software Development.
+An Assistant Water Safety Specialist transitioning into tech. I'm passionate about Data Analysis, Cloud Computing and Software Engineering.
 ## Tech Stack
 - Data Analysis: Excel, SQL
 - Frontend: HTML, CSS, JavaScript
