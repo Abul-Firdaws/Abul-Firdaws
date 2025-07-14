@@ -3,12 +3,10 @@
 An Assistant Water Safety Specialist transitioning into tech. I'm passionate about Data Analysis, Cloud Computing and Software Engineering.
 ## Tech Stack
 - Data Analysis: Excel, SQL
-- Frontend: learning (HTML, CSS, JavaScript)
-- Cloud: learning (AWS Cloud Practitioner & Solutions Architect)
-- Tools: GitHub, VS Code
+- Tools: WSL2, VS Code
 ## Currently Learning
-- AWS Cloud Computing
-- Front End Web Development 
+- AWS Cloud Computing for certification (AWS Cloud Practitioner & Solutions Architect)
+- Front End Web Development (HTML, CSS, JavaScript)
 ## Featured Projects
 - Coming soon
 ## Let's Connect
