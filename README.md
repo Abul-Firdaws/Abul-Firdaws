@@ -1,4 +1,4 @@
-# Hi there, I'm Abdul-Firdaws Saaka
+# Hi there! I'm Firdaws
 
 ## About Me
 
