@@ -25,6 +25,7 @@ Open to remote opportunities.
 - Vite  
 
 **Data & Tools:**  
+- Linux (Ubuntu VM for hands-on practice)
 - Excel, SQL, Google Sheets  
 - VS Code, WSL2  
 
