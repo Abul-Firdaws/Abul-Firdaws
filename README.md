@@ -75,8 +75,8 @@ Hands-on exercises from AWS training
 
 ## Certifications
 
-- [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://www.credly.com/badges/a5619089-fe1c-4820-a084-ae3041a79b6c/linked_in_profile)  
-- [![ALX Africa Front-End Web Development](https://img.shields.io/badge/ALX%20Africa%20Front--End%20Web%20Dev-2F4F4F?style=for-the-badge&logo=alx&logoColor=white)](https://savanna.alxafrica.com/certificates/NrcXy3zCeR)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a5619089-fe1c-4820-a084-ae3041a79b6c/linked_in_profile)  
+- [ALX Africa Front-End Web Development](https://savanna.alxafrica.com/certificates/NrcXy3zCeR)
   
 
 ---
