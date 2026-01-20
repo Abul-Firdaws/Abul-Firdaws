@@ -8,6 +8,8 @@ Junior DevOps / Cloud Engineer with 5+ years of technical operations experience.
 
 **Cloud & DevOps:**
 - AWS (EC2, S3, IAM, VPC, CloudWatch) - Certified Cloud Practitioner 
+- CI/CD
+- Linux
 - Git/GitHub
 
 **Front-End Development:**
