@@ -60,8 +60,6 @@ Hands-on exercises from AWS training
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abul-Firdaws&layout=compact&theme=radical&hide_title=false&hide_border=false" alt="Top Languages" width="35%">
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abul-Firdaws&theme=radical)
-
 ---
 
 ## Currently Learning
