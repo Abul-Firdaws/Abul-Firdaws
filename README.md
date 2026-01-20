@@ -2,13 +2,7 @@
 
 ## About Me
 
-**AWS Certified Cloud Practitioner** transitioning from infrastructure operations into **Cloud Engineering** and **Front-End Development**.
-
-- Currently pursuing **AWS Solutions Architect Associate** certification
-- Building projects with **React.js** and **AWS services**
-- Assistant Engineer coordinating operations for water systems serving 44,400+ people
-- Completed **ALX Africa** Software Engineering (Front-End Web Development) Program
-- Reach me: **saakaabufirdaus@gmail.com**
+Junior DevOps / Cloud Engineer with 5+ years of technical operations experience. AWS Certified Cloud Practitioner. Passionate about automating infrastructure, implementing CI/CD pipelines, and ensuring scalable, reliable cloud solutions. Open to remote opportunities.
 
 ## Tech Stack
 
