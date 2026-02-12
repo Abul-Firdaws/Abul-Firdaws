@@ -1,6 +1,6 @@
 # Hi there, I'm Firdaws <a href="https://www.linkedin.com/in/a-firdaws-saaka/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<div align="center">
+<div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-firdaws-saaka)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SaakaFirdaws)
@@ -36,8 +36,7 @@ I bring a unique perspective combining operational reliability, process optimiza
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Cloud & Infrastructure:**  
-AWS (EC2, S3, IAM, VPC, CloudWatch) • Linux (WSL2, Ubuntu) • Git/GitHub • Bash Scripting
+**Cloud & Infrastructure:**
 
 ### Currently Learning (Active Training)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,16 +46,13 @@ AWS (EC2, S3, IAM, VPC, CloudWatch) • Linux (WSL2, Ubuntu) • Git/GitHub • 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-**DevOps Bootcamp (TS Academy):**  
-Docker & Kubernetes • Terraform (IaC) • CI/CD (GitHub Actions) • Monitoring (Prometheus/Grafana, ELK Stack) • AWS Integration
+**DevOps Bootcamp (TS Academy):**
 
 ### Development Skills (Complementary)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Front-End:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS • API Integration
 
 ---
 
@@ -109,7 +105,7 @@ Real-time weather dashboard with 5-day forecasting and geolocation
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Abul-Firdaws&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abul-Firdaws&theme=tokyonight" alt="GitHub Streak" height="165">
 </div>
@@ -148,7 +144,7 @@ Interested in discussing:
 - 🛠️ DevOps best practices and tooling
 - 🤝 Entry-level opportunities in DevOps
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-firdaws-saaka)
 [![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SaakaFirdaws)
@@ -158,8 +154,6 @@ Interested in discussing:
 ---
 
 💭 *"The best time to start was yesterday. The second best time is now."*
-
-🚀 **Open to remote DevOps/Cloud opportunities** | Currently building production-ready skills
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abul-Firdaws&color=blueviolet&style=flat-square)
 
