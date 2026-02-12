@@ -14,14 +14,14 @@
 
 Transitioning from 5+ years in water utility operations to DevOps engineering. Currently enrolled in an intensive **4-month DevOps Engineering program** at TS Academy, covering the complete modern DevOps toolchain: Linux, Docker, Kubernetes, Terraform, CI/CD, AWS, and monitoring solutions.
 
-I bring a unique perspective combining operational reliability, process optimization, and technical problem-solving from managing critical infrastructure systems. Completed front-end development training (HTML, CSS, JavaScript, React) as a complementary skill for building portfolios, landing pages, and contributing to full-stack DevOps projects.
+I bring a unique perspective combining operational reliability, process optimization, and technical problem-solving from managing critical infrastructure systems.
 
 ```
 🎯 Career Focus: DevOps Engineering | Cloud Infrastructure | CI/CD Automation
 🌍 Location: Yapei, Ghana
 💼 Open to: Remote opportunities | Junior/Associate DevOps Engineer roles
 📚 Current: DevOps Engineering Bootcamp (TS Academy) - 4 months intensive
-🎓 Completed: AWS Cloud Practitioner (Aug 2024) | Front-End Dev (ALX Africa)
+🎓 Completed: AWS Cloud Computing | Front-End Web Dev (ALX Africa)
 ⏭️ Next: AWS Solutions Architect Associate (June-Dec 2025)
 ```
 
@@ -36,8 +36,6 @@ I bring a unique perspective combining operational reliability, process optimiza
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Cloud & Infrastructure:**
-
 ### Currently Learning (Active Training)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -45,8 +43,6 @@ I bring a unique perspective combining operational reliability, process optimiza
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-**DevOps Bootcamp (TS Academy):**
 
 ### Development Skills (Complementary)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -72,7 +68,7 @@ I bring a unique perspective combining operational reliability, process optimiza
 ### 💻 Completed Projects
 
 #### [GitHub User Search Application](https://github.com/Abul-Firdaws/alx-fe-reactjs/tree/main/github-user-search)
-React app with GitHub API integration, advanced filtering, and pagination  
+GitHub Search app with GitHub API integration, advanced filtering, and pagination  
 **[Live Demo →](https://mygithub-search.vercel.app/)**
 
 #### [Personal Weather Hub](https://github.com/Abul-Firdaws/alx-fe-capstone-project)
@@ -83,10 +79,10 @@ Real-time weather dashboard with 5-day forecasting and geolocation
 
 ## 📜 Certifications
 
-🏆 **AWS Certified Cloud Practitioner** - Amazon Web Services (August 2024)  
+🏆 **AWS Certified Cloud Practitioner** - Amazon Web Services  
 [View Credential →](https://www.credly.com/badges/a5619089-fe1c-4820-a084-ae3041a79b6c/linked_in_profile)
 
-🎓 **Front-End Web Development** - ALX Africa (2024)  
+🎓 **Front-End Web Development** - ALX Africa  
 [View Certificate →](https://savanna.alxafrica.com/certificates/NrcXy3zCeR)
 
 🎓 **ALX Cloud Practitioner Course** - ALX Africa  
@@ -106,7 +102,6 @@ Real-time weather dashboard with 5-day forecasting and geolocation
 ## 📊 GitHub Activity
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abul-Firdaws&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abul-Firdaws&theme=tokyonight" alt="GitHub Streak" height="165">
 </div>
 
@@ -151,7 +146,11 @@ Interested in discussing:
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saakaabufirdaus@gmail.com)
 [![Linktree](https://img.shields.io/badge/All_Links-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/A_Firdaws)
 
+</div>
+
 ---
+
+<div align="center">
 
 💭 *"The best time to start was yesterday. The second best time is now."*
 
