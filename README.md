@@ -4,9 +4,12 @@
 
 ### **DevOps Engineer in Training** | **AWS Certified Cloud Practitioner** | **Career Transitioner from water utility**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-firdaws-saaka/)
-[![X](https://img.shields.io/badge/-black?logo=x&logoColor=white)](https://www.x.com/SaakaFirdaws/)
-[![Email](https://img.shields.io/badge/Send_Email-red?logo=gmail&logoColor=white)](mailto:saakaabufirdaus@gmail.com)
+**Connect with me**
+
+<a href="https://www.linkedin.com/in/a-firdaws-saaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Firdaws LinkedIn" height="30" width="40" /></a>
+<a href="https://www.x.com/SaakaFirdaws/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Firdaws X" height="30" width="40" /></a>
+<a href="mailto:saakaabufirdaus@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" alt="Firdaws Email" height="30" width="40" /></a>
+</p>
 
 </div>
 
@@ -59,23 +62,12 @@ Real-time weather dashboard with 5-day forecasting and geolocation
 
 ### Certifications
 
-🏆 **AWS Certified Cloud Practitioner** - Amazon Web Services  
-[View Credential →](https://www.credly.com/badges/a5619089-fe1c-4820-a084-ae3041a79b6c/linked_in_profile)
-
-🎓 **Front-End Web Development** - ALX Africa  
-[View Certificate →](https://savanna.alxafrica.com/certificates/NrcXy3zCeR)
-
-🎓 **ALX Cloud Practitioner Course** - ALX Africa  
-[View Certificate →](https://savanna.alxafrica.com/certificates/XBJTGfY9Mp)
-
-🎓 **Hands-on Introduction to Git with GitHub** - Udemy  
-[View Certificate →](https://www.udemy.com/certificate/UC-dc2c59e8-2234-4c9d-8ab5-3e73bdb5132d/)
-
-🎓 **AI Career Essentials** - ALX Africa  
-[View Certificate →](https://savanna.alxafrica.com/certificates/J5px7ymM2Z)
-
-🎓 **Professional Foundations** - ALX Africa  
-[View Certificate →](https://savanna.alxafrica.com/certificates/r9SxFZ7L6X)
+- [AWS Certified Cloud Practitioner — Amazon Web Services](https://www.credly.com/badges/a5619089-fe1c-4820-a084-ae3041a79b6c/linked_in_profile)
+- [Front-End Web Development — ALX Africa](https://savanna.alxafrica.com/certificates/NrcXy3zCeR)
+- [ALX Cloud Practitioner Course — ALX Africa](https://savanna.alxafrica.com/certificates/XBJTGfY9Mp)
+- [AI Career Essentials — ALX Africa](https://savanna.alxafrica.com/certificates/J5px7ymM2Z)
+- [Hands-on Introduction to Git with GitHub — Udemy](https://www.udemy.com/certificate/UC-dc2c59e8-2234-4c9d-8ab5-3e73bdb5132d/)
+- [Professional Foundations — ALX Africa](https://savanna.alxafrica.com/certificates/r9SxFZ7L6X)
 
 ---
 
