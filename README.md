@@ -79,10 +79,10 @@ Real-time weather dashboard with 5-day forecasting and geolocation
 
 ---
 
-### GitHub Activity
+### GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abul-Firdaws&theme=tokyonight" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abul-Firdaws&theme=dark" alt="GitHub Streak" height="165">
 </div>
 
 ---
