@@ -2,7 +2,7 @@
 
 <div align="left">
 
-### **DevOps Engineer in Training** | **AWS Certified Cloud Practitioner** | **Career Transitioner from water utility**
+### **DevOps/Cloud Engineer in Training** | **AWS Certified Cloud Practitioner** | **Transitioning from water utility to DevOps/Cloud**
 
 **Connect with me**
 
@@ -15,9 +15,9 @@
 
 ### About Me
 
-Transitioning from 5+ years in water utility operations to DevOps engineering. Currently enrolled in an intensive 4-month DevOps Engineering program at TS Academy, covering the complete modern DevOps toolchain: Linux, Docker, Kubernetes, Terraform, CI/CD, AWS, and monitoring solutions.
+Transitioning from 5+ years in water utility operations to DevOps/Cloud Engineering. Currently enrolled in an intensive 4-month DevOps Engineering program at TS Academy, covering the complete modern DevOps toolchain.
 
-I bring a unique perspective combining operational reliability, process optimization, and technical problem-solving from managing critical infrastructure systems.
+I bring a unique perspective combining operational reliability, process optimization, and technical problem-solving from managing water system infrastructure.
 
 ---
 
@@ -74,7 +74,7 @@ Real-time weather dashboard with 5-day forecasting and geolocation
 ### GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abul-Firdaws&theme=dark" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abul-Firdaws&theme=light" alt="GitHub Streak" height="165">
 </div>
 
 ---
